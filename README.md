@@ -69,4 +69,4 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ## Author
 
 
-- GitHub [@NaglaaRaslan]({https://github.com/codeAndcocoa})
+- GitHub [@codeAndcocoa]({https://github.com/codeAndcocoa})
